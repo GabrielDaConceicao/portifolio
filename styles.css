@@ -109,7 +109,7 @@ body {
 }
 
 .btn-accent:hover {
-  background-color: #ad6e01;
+  background-color: #6b4400;
 }
 
 .btn-outline {
@@ -304,7 +304,7 @@ body {
 .tech-card:hover {
   transform: translateY(-8px);
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-  border-color: rgba(37, 99, 235, 0.5);
+  border-color: #0c4857;
 }
 
 .tech-icon {
@@ -575,7 +575,7 @@ body {
 
 @keyframes pulse-glow {
   0% {
-    box-shadow: 0 0 0 0 rgba(37, 99, 235, 0.4);
+    box-shadow: 0 0 0 0 #0c4857;
   }
   100% {
     box-shadow: 0 0 0 20px rgba(37, 99, 235, 0);
